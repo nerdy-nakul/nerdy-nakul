@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### I'm Nakul Singh
+### I'm Nakul Singh <3
 
 I'm a Computer Science Engineering student with a strong passion for software development, open-source contributions. I am currently pursuing my B.Tech degree from Bhagwan Parshuram Institute of Technology. I love creating visually appealing designs and constantly seek opportunities to learn and collaborate.
 
