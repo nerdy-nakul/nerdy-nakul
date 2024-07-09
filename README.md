@@ -8,10 +8,10 @@ I'm a Computer Science Engineering student with a strong passion for software de
 
 🌱 I’m always learning and exploring new technologies to stay up-to-date in the dynamic field of computer science.
 
-💬 Ask me about front-end development, open-source contributions, or anything related to software engineering!
+💬 Ask me about development, open-source contributions, or anything related to software engineering!
 
 📫 How to reach me:
-- Email: nakullsinghh@gmail.com
+- Email: nst4484@gmail.com
 - LinkedIn: [Nakul Singh](https://www.linkedin.com/in/nakul-singh-506048205/)
 
 ⚡ Fun fact: When I'm not coding, you'll find me capturing moments through photography.
