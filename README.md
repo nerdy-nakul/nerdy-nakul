@@ -13,6 +13,8 @@ I'm a Computer Science Engineering student with a strong passion for software de
 📫 How to reach me:
 - Email: nst4484@gmail.com
 - LinkedIn: [Nakul Singh](https://www.linkedin.com/in/nakul-singh-506048205/)
+- Twitter: [nakullsinghh](https://x.com/Nakullsinghh)
+- Instagram: [nakullsinghh](https://www.instagram.com/nakullsinghh)
 
 ⚡ Fun fact: When I'm not coding, you'll find me capturing moments through photography.
 
