@@ -119,7 +119,7 @@ I'm a Computer Science Engineering student with a strong passion for software de
 </div>
 
 ## ⚡ Fun fact 
-When I'm not coding, you'll find me capturing moments through photography.  
+### When I'm not coding, you'll find me capturing moments through photography.  
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=nerdy-nakul&show_icons=true&locale=en&theme=radical" alt="nerdy-nakul" />
 <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdy-nakul&theme=tokyonight" alt="nerdy-nakul" /> -->
 <!--
