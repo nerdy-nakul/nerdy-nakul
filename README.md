@@ -5,7 +5,7 @@
 
 <!-- <hr/> -->
 ## About Me  
-I'm a Computer Science Engineering student with a strong passion for software development. Currently pursuing my B.Tech degree from Bhagwan Parshuram Institute of Technology, I enjoy creating visually appealing designs and constantly seek opportunities to learn, grow, and collaborate.  
+I am Nakul Singh, a B.Tech graduate in Computer Science and Engineering, and currently a Product Engineer at WhatBytes. I specialize in building products from scratch, scaling them efficiently, and optimizing their performance. 
 
 <div align="center"> 
     <a href="https://x.com/Nakullsinghh" target="_blank"><img
