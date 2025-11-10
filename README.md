@@ -5,7 +5,7 @@
 
 <!-- <hr/> -->
 ## About Me  
-I am Nakul Singh, a B.Tech graduate in Computer Science and Engineering, and currently a Product Engineer at WhatBytes. I specialize in building products from scratch, scaling them efficiently, and optimizing their performance. 
+A B.Tech graduate in Computer Science and Engineering with specialization in AIML, and currently a Product Engineer at WhatBytes. I specialize in building products from scratch, scaling them efficiently, and optimizing their performance. 
 
 <div align="center"> 
     <a href="https://x.com/Nakullsinghh" target="_blank"><img
