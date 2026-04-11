@@ -6,7 +6,7 @@
   ## About Me
 
   SDE at **FraX**, a fractional real estate investment platform — building payment infrastructure (Cashfree, TPV routing), eSign/KYC flows (HyperVerge),
-  and the React Native mobile app serving 1,300+ users.
+  and the React Native mobile app serving 5,000+ users.
 
   Previously at **WhatBytes**, where I grew from Frontend Developer to Tech Pod Lead in 10 months, leading 20+ developers across 10+ production projects.
 
